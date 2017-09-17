@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/sh
 #su && \
 export SYSTEMTERMUX=/data/data/com.termux/files
-export CHROOT=/data/data/com.termux/files/home/projects/debian
+export CHROOT=/data/data/com.termux/files/home/Termux-debian_chroot
 #if [ -f $SYSTEMTERMUX/usr/bin/umount ] && [ -d $CHROOT/SO ];
 #then
 #umount $CHROOT/SO/sys && \
